@@ -1,0 +1,24 @@
+{
+  "name": "aboutus",
+  "version": "1.0.0",
+  "description": "This is a practice",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nikhil0802@bitbucket.org/nikhil0802/aboutus.git"
+  },
+  "author": "nikhil",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/nikhil0802/aboutus#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
